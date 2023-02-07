@@ -47,3 +47,7 @@ The purpose of this project is to perform data cleaning and creating a user-frie
 ![](resources/final_sub_code.png)
 
 - Insert Slicer
+
+## Summary
+
+The final dashboard is user-friendly and interactive. When the user selects a customer from the dropdown menu, their contact details, order history, order details and a chart depicting their yearly order amounts are automatically updated. This interactive dashboard can be a useful tool for analyzing customer data.
