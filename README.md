@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The purpose of this project is to perform data cleaning and creating a user-friendly interactive dashboard with customer order details using various MS Excel features including Macros & VBA.
+The purpose of this project is to perform data cleaning and creating a user-friendly interactive dashboard with customer order details using various MS Excel features including Macros & VBA. The final dashboard can be downloaded from this [link](https://github.com/Sukanya807/MS_Excel_Data_Analysis_Dashboard_Reporting/blob/main/CustomerOrders-02_worksheet.xltm)
 
 ![](resources/final_dashboard.png)
 
