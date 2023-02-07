@@ -11,3 +11,5 @@ The purpose of this project is to perform data cleaning and creating a user-frie
  
  ## Tools Used
   - MS Excel
+
+## Project Details
