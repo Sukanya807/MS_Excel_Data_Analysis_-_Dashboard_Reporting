@@ -15,3 +15,10 @@ The purpose of this project is to perform data cleaning and creating a user-frie
   - MS Excel
 
 ## Project Details
+
+### Data Cleaning
+
+- Use PROPER() on Contact Name column.
+- Use UPPER() on Customer ID column.
+- Use CHOOSE() on ShipVIA column to replace numbers with meaningful names.
+- Use TEXT() function on Order Date to extract Order Month
