@@ -23,9 +23,27 @@ The purpose of this project is to perform data cleaning and creating a user-frie
 - Use CHOOSE() on ShipVIA column to replace numbers with meaningful names.
 - Use TEXT() function on Order Date to extract Order Month
 
-### Dashboard Creation - Customer Info
+### Dashboard - Customer Info
 
 - Data Validation
 - VLOOKUP
 - IF statement with Nested VLOOKUP
 - Index & Match
+
+### Dashboard - Order History
+
+- Advanced Filter
+- Recording Macro
+
+### Dashboard - Order Details
+
+- Use SUBTOTAL() function to filtered data
+
+### Dashboard - Charts
+
+- Pivot Tables
+- Tie pivot chart to dashboard page using VBA
+
+![](resources/final_sub_code.png)
+
+- Insert Slicer
